@@ -1,0 +1,1 @@
+- using pretrained resnet18 to classify images
